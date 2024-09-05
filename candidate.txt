@@ -1,0 +1,88 @@
+{
+  "Name": "Ashutosh Maurya",
+  "Email": "ashutosh44001@gmail.com",
+  "Phone-Number": "8853264553",
+  "Summary": "Motivated Python developer inclined to develop backend and frontend technologies with databases. Proficient in coding, scripting, and effective communication.",
+  "Current-Location": "Ghaziabad (201009)",
+  "Current-Company": "Ducat",
+  "Skills": [
+    "Python (Core + Advance)",
+    "Web Framework (Django)",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "NumPy",
+    "Pandas",
+    "Matplotlib"
+  ],
+  "Linkedin-Id": "",
+  "Github-Id": "",
+  "Total-Experience": 1,
+  "Expected-Salary": 2700000,
+  "Notice_Period": 30,
+  "Education": [
+    {
+      "Degree": "Master's of Computer Application (M.C.A)",
+      "Specialization": "",
+      "Institute": "Dr. A.P.J. Abdul Kalam Technical University",
+      "Start": 2020,
+      "End": 2022
+    },
+    {
+      "Degree": "Bachelor's of Commerce",
+      "Specialization": "",
+      "Institute": "Gorakhpur University",
+      "Start": 2017,
+      "End": 2020
+    },
+    {
+      "Degree": "Higher Secondary",
+      "Specialization": "",
+      "Institute": "Shri Krishna Ram Ganesh Inter College",
+      "Start": 2014,
+      "End": 2016
+    },
+    {
+      "Degree": "Senior Secondary",
+      "Specialization": "",
+      "Institute": "St. Xavier's Public School",
+      "Start": 2012,
+      "End": 2014
+    }
+  ],
+  "Education-Year": [
+    2022,
+    2020,
+    2016,
+    2014
+  ],
+  "Experiences": [
+    {
+      "Company Name": "Ducat",
+      "Designation": "Python Developer (Trainee)",
+      "Start": "24/03/2022",
+      "End": "30/03/2023",
+      "Description": "Developing backend components with reusable, testable, and efficient codes. Connecting applications with other web services, interacting with frontend developers to build server-side logics. Writing SQL queries and maintaining databases. Creating frontend with HTML, CSS, JavaScript, and Django templates."
+    }
+  ],
+  "Projects": [
+    {
+      "Project": "Hotel Billing System",
+      "Project-Description": "Data Structure and Algorithm"
+    },
+    {
+      "Project": "Hospital Management System",
+      "Project-Description": "OOP's"
+    },
+    {
+      "Project": "Movie Searching",
+      "Project-Description": "MySQL, PostgreSQL, Object Relational Mapping"
+    }
+  ],
+  "Roles-Responsibility": [],
+  "Certifications": [
+    "Python Developer (Ducat)",
+    "Big Data (Cognitel Pvt.Ltd)",
+    "CCC (NIELIT)"
+  ]
+}
